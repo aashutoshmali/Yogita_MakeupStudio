@@ -29,7 +29,7 @@
 .ab h1{
   font-size: 230%;
   font-family:cursive;
-  color: rgb(8, 124, 124);
+  color:rgb(250, 4, 25);
   font-style: italic;
   font-weight: bold;
 }
@@ -99,7 +99,7 @@ border-radius:20px;
 .ps h1{
   font-size: 230%;
   font-family:cursive;
-  color: rgb(8, 124, 124);
+  color:rgb(8, 124, 124);
   font-style: italic;
   text-align: center;
   font-weight: bold;
