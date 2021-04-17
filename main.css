@@ -26,6 +26,12 @@
   text-align: center;
   box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
 }
+.ab h1{
+  font-size: 230%;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: rgb(8, 124, 124);
+  font-style: italic;
+}
 .about{
   display:contents;
   font-family: "Titillium Web", sans-serif;
@@ -81,14 +87,16 @@ border-radius:20px;
 }
 
 .form h1{
-  font-size: 200%;
+  font-size: 230%;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  
+  color: rgb(8, 124, 124);
+  font-style: italic;
 }
 .ps h1{
-  font-size: 200%;
+  font-size: 230%;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  
+  color: rgb(8, 124, 124);
+  font-style: italic;
 }
 .form a:hover,.form a:focus {
   background: #e4066d;
