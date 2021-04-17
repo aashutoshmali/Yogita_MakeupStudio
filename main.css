@@ -91,7 +91,8 @@ border-radius:20px;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   color: rgb(8, 124, 124);
   font-style: italic;
-    height: 100px;
+    height: 150px;
+  text-align: center;
 }
 .ps h1{
   font-size: 230%;
