@@ -22,7 +22,7 @@
   background: #fae4e4ce;
   max-width: 360px;
   margin: 0 auto 100px;
-  padding: 60px;
+  padding: 55px;
   text-align: center;
   box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
 }
@@ -41,7 +41,7 @@
   background: #f5f3f4;
   max-width: 360px;
   margin: 0 auto 100px;
-  padding: 60px;
+  padding: 55px;
   text-align: center;
   box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
   
@@ -238,7 +238,7 @@ border-radius:30px;
   background: #f5f3f4;
   max-width:360px;
   margin: 0 auto 100px;
-  padding:60px;
+  padding:55px;
   text-align: center;
   box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
   flex: 1;
