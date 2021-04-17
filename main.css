@@ -31,11 +31,12 @@
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   color: rgb(8, 124, 124);
   font-style: italic;
+  font-weight: bold;
 }
 .about{
   display:contents;
   font-family: "Titillium Web", sans-serif;
-  font-size: 14px;
+  font-size: 18px;
   font-weight: bold;
   text-align:center;
   
@@ -92,12 +93,15 @@ border-radius:20px;
   color: rgb(8, 124, 124);
   font-style: italic;
   text-align: center;
+  font-weight: bold;
 }
 .ps h1{
   font-size: 230%;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   color: rgb(8, 124, 124);
   font-style: italic;
+  text-align: center;
+  font-weight: bold;
 }
 .form a:hover,.form a:focus {
   background: #e4066d;
