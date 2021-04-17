@@ -61,16 +61,16 @@ border-radius:10px;
 }
 .form a {
   font-family: "Titillium Web", sans-serif;
-  font-size: 12px;
+  font-size: 13px;
   font-weight: bold;
   letter-spacing: .1em;
   outline: 0;
   background:#e4066d;
-  width: 30%;
+  width: 35%;
   border: 0;
 border-radius:20px;
   margin: 0px 0px 8px;
-  padding: 10px;
+  padding: 15px;
   color: #FFFFFF;
   -webkit-transition: all 0.3 ease;
   transition: all 0.3 ease;
