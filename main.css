@@ -79,6 +79,17 @@ border-radius:20px;
   display: inline-block;
 
 }
+
+.form h1{
+  font-size: 200%;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  
+}
+.ps h1{
+  font-size: 200%;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  
+}
 .form a:hover,.form a:focus {
   background: #e4066d;
    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
