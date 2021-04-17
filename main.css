@@ -87,10 +87,11 @@ border-radius:20px;
 }
 
 .form h1{
-  font-size: 200%;
+  font-size:180%;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   color: rgb(8, 124, 124);
   font-style: italic;
+    height: 100px;
 }
 .ps h1{
   font-size: 230%;
