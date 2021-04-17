@@ -19,7 +19,7 @@
 .ab{
   position: relative;
   z-index: 1;
-  background: #f7adda;
+  background: #fffff;
   max-width: 360px;
   margin: 0 auto 100px;
   padding: 55px;
@@ -38,6 +38,7 @@
   font-family: "Titillium Web", sans-serif;
   font-size: 18px;
   font-weight: bold;
+   font-style: italic;
   text-align:center;
   
   
